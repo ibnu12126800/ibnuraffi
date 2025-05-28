@@ -1,0 +1,74 @@
+baseURL = "https://yourusername.github.io/"
+languageCode = "en-us"
+title = "Ibnu Raffi"
+theme = "PaperMod"
+
+[params]
+  author = "Ibnu Raffi"
+  defaultTheme = "auto"
+  ShowBreadCrumbs = false
+  ShowReadingTime = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Halo, saya Ibnu Raffi"
+    subtitle = "Selamat datang di blog dan portofolio saya 👋"
+    imageUrl = "images/profile.png"
+    imageTitle = "Profil"
+
+    [[params.profileMode.buttons]]
+      name = "Posts"
+      url = "/posts"
+
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects"
+
+    [[params.profileMode.buttons]]
+      name = "Contact"
+      url = "/contact"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourusername"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/yourusername"
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://linkedin.com/in/yourusername"
+
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://linkedin.com/in/yourusername"
+
+  [params.assets]
+    favicon = "favicon.ico"
+
+  [params.cover]
+    link = "images/preview.png"
+    alt = "Preview Website"
+
+  [params.footer]
+    copyright = "© 2025 Rafi. All rights reserved."
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 3

@@ -2,6 +2,6 @@
 title: "Kontak Saya"
 ---
 
-📧 Email: yourname@email.com  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+📧 Email: ibnu.raffy@email.com  
+🔗 LinkedIn: [linkedin.com/in/ibnu-raffi-1746a510b](https://www.linkedin.com/in/ibnu-raffi-1746a510b)  
+🐙 GitHub: [github.com/ibnu12126800](https://github.com/ibnu12126800)

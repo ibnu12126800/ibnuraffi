@@ -30,19 +30,19 @@ theme = "PaperMod"
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/yourusername"
+    url = "https://github.com/ibnu12126800"
 
   [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com/in/yourusername"
+    url = "https://www.linkedin.com/in/ibnu-raffi-1746a510b/"
 
   [[params.socialIcons]]
     name = "x"
-    url = "https://linkedin.com/in/yourusername"
+    url = "https://x.com/eivan_raffy"
 
   [[params.socialIcons]]
-    name = "facebook"
-    url = "https://linkedin.com/in/yourusername"
+    name = "steam"
+    url = "https://steamcommunity.com/id/ibnuraffy/"
 
   [params.assets]
     favicon = "favicon.ico"

@@ -6,6 +6,35 @@
     <description>Recent content in Tags on Ibnu Raffi</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jun 2025 08:26:46 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn to Code</title>
+      <link>http://localhost:1313/tags/learn-to-code/</link>
+      <pubDate>Fri, 06 Jun 2025 08:26:46 +0700</pubDate>
+      <guid>http://localhost:1313/tags/learn-to-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pomodoro</title>
+      <link>http://localhost:1313/tags/pomodoro/</link>
+      <pubDate>Fri, 06 Jun 2025 08:26:46 +0700</pubDate>
+      <guid>http://localhost:1313/tags/pomodoro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+      <pubDate>Fri, 06 Jun 2025 08:26:46 +0700</pubDate>
+      <guid>http://localhost:1313/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Fri, 06 Jun 2025 08:26:46 +0700</pubDate>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
